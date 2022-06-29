@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithms/Pattern-Matching/KMP.md",
+            "file": "Data-Structures/Trees/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Pattern-Matching/KMP.md",
+                "file": "Data-Structures/Trees/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "02ae415783dab31a",
   "lastOpenFiles": [
+    "Data-Structures/Trees/README.md",
     "Algorithms/Pattern-Matching/KMP.md",
     "SUMMARY.md",
     "README.md",
@@ -105,7 +106,6 @@
     "Problems/Hash-table/290.单词规律.md",
     "Algorithms/Pattern-Matching/README.md",
     "New Problem Template.md",
-    "Problems/Hash-table/README.md",
-    "Problems/Hash-table.md"
+    "Problems/Hash-table/README.md"
   ]
 }
