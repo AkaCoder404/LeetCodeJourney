@@ -7,5 +7,5 @@
 	- [Hash Table](Problems/Hash-table/)
 		- [1.两数相加](Problems/Hash-table/1.两数相加.md)
 	- [Math](Problems/Math/README.md)
-		- [2. 两数相加](Problems/Math/README.md)
+		- [2. 两数相加](Problems/Math/2.两数相加)
 
