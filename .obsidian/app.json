@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "attachmentFolderPath": "./images",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true
 }

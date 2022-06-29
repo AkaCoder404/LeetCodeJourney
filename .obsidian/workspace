@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data-Structures/Trees/README.md",
+            "file": "Algorithms/Pattern-Matching/KMP.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data-Structures/Trees/README.md",
+                "file": "Algorithms/Pattern-Matching/KMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
   },
   "active": "02ae415783dab31a",
   "lastOpenFiles": [
-    "Data-Structures/Trees/README.md",
     "Algorithms/Pattern-Matching/KMP.md",
+    "Data-Structures/Trees/README.md",
     "SUMMARY.md",
     "README.md",
     "Problems/Math/README.md",
