@@ -1,9 +1,11 @@
 * [Algorithms](Algorithms/README.md)
     * [Pattern Matching](Algorithms/Pattern-Matching/README.md)
-	    * [KMP](Algorithms/Pattern Matching Algorithms/KMP.md)
+	    * [KMP](Algorithms/Pattern-Matching/KMP.md)
 * [Data Structures](Data-Structures/README.md)
 	* [Trees](Data-Structures/Trees/README.md)
 - [Problems](Problems/README.md)
-	- [1.两数相加](Problems/Hash-table/1.两数相加.md)
-	
+	- [Hash Table](Problems/Hash-table/)
+		- [1.两数相加](Problems/Hash-table/1.两数相加.md)
+	- [Math](Problems/Math/README.md)
+		- [2. 两数相加](Problems/Math/README.md)
 
