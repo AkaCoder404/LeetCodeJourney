@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithms/Pattern Matching Algorithms/KMP.md",
+            "file": "SUMMARY.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 286.5
   },
   "right": {
     "id": "ec509ae2141648ef",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Pattern Matching Algorithms/KMP.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "02ae415783dab31a",
   "lastOpenFiles": [
-    "Algorithms/Pattern Matching Algorithms/KMP.md",
-    "Problems/Hash-table/290. 单词规律.md",
+    "SUMMARY.md",
+    "Data Structures/README.md",
     "New Problem Template.md",
-    "Problems/README.md",
-    "Algorithms/README.md",
     "README.md",
-    "images/README.md",
-    "Algorithms/Pattern Matching Algorithms/images/README.md",
-    "Data Structures/Introduction.md",
-    "2022-06-29.md"
+    "Data.md",
+    "Algorithms/Pattern Matching Algorithms/README.md",
+    "Algorithms/Pattern Matching Algorithms/KMP.md",
+    "Problems/README.md",
+    "Problems/Hash-table/290. 单词规律.md",
+    "Algorithms/README.md"
   ]
 }
