@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Algorithms/Pattern Matching Algorithms/KMP.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithms/Pattern Matching Algorithms/KMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
   },
   "active": "02ae415783dab31a",
   "lastOpenFiles": [
-    "README.md",
-    "Algorithms/Pattern Matching Algorithms/images/README.md",
     "Algorithms/Pattern Matching Algorithms/KMP.md",
+    "README.md",
     "Problems/Introduction.md",
+    "Algorithms/Pattern Matching Algorithms/images/README.md",
     "Data Structures/Introduction.md",
     "Algorithms/Introduction.md",
     "2022-06-29.md",
