@@ -98,14 +98,14 @@
   "active": "02ae415783dab31a",
   "lastOpenFiles": [
     "SUMMARY.md",
-    "Data Structures/README.md",
-    "Data Structures/Trees/README.md",
-    "Data.md",
-    "Algorithms/Pattern Matching Algorithms/README.md",
     "README.md",
+    "Problems/Hash-table/1.两数之和.md",
+    "Problems/Hash-table/290.单词规律.md",
+    "Algorithms/Pattern-Matching/README.md",
+    "Data.md",
+    "Data-Structures/README.md",
+    "Data-Structures/Trees/README.md",
     "Problems/Math/2. 两数相加.md",
-    "Problems/Hash-table/290. 单词规律.md",
-    "Problems/Hash-table/1. 两数之和.md",
     "Algorithms/README.md"
   ]
 }
