@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithms/Pattern Matching Algorithms/KMP.md",
+            "file": "Problems/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Pattern Matching Algorithms/KMP.md",
+                "file": "Problems/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "02ae415783dab31a",
   "lastOpenFiles": [
-    "Algorithms/Pattern Matching Algorithms/KMP.md",
+    "Problems/README.md",
+    "Algorithms/README.md",
     "README.md",
-    "Problems/Introduction.md",
+    "Algorithms/Pattern Matching Algorithms/KMP.md",
+    "images/README.md",
     "Algorithms/Pattern Matching Algorithms/images/README.md",
     "Data Structures/Introduction.md",
-    "Algorithms/Introduction.md",
     "2022-06-29.md",
     "Leetcode.md",
-    "Reinforcement Learning.md",
-    "Setup TensorFlow.md"
+    "Reinforcement Learning.md"
   ]
 }
