@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "e53fd3c0a8ec3112",
+    "type": "split",
+    "children": [
+      {
+        "id": "02ae415783dab31a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29d13c245c1fc3b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "be327f5cfcd44c20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d7dcb1bb236ccb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5687bfbc921ce4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "ec509ae2141648ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ca8feb44b0a9f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "946dbfad8d4f3eb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95785fb972cffd16",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "02ae415783dab31a",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "2022-06-29.md",
+    "Leetcode.md",
+    "Reinforcement Learning.md",
+    "Setup TensorFlow.md",
+    "images/Pasted image 20220628161926.png",
+    "images/Pasted image 20220628162036.png",
+    "Tensor Flow Introduction.md",
+    "Supervised Learning.md"
+  ]
+}
