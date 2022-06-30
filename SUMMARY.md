@@ -5,7 +5,7 @@
 	* [Trees](Data-Structures/Trees/README.md)
 - [Problems](Problems/README.md)
 	- [Hash Table](Problems/Hash-table/)
-		- [1.两数相加](Problems/Hash-table/1.两数相加.md)
+		- [1.两数之和](Problems/Hash-table/1.两数之和.md)
 	- [Math](Problems/Math/README.md)
-		- [2. 两数相加](Problems/Math/2.两数相加)
+		- [2.两数相加](Problems/Math/2.两数相加)
 

@@ -3,5 +3,5 @@
   "livePreview": true,
   "attachmentFolderPath": "./images",
   "promptDelete": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }
