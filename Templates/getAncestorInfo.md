@@ -9,8 +9,13 @@
 	// get all parents and output their names to the template engine replacement string tR 
 	tR = ""; 
 	
+	// while (!tFile.parent?.isRoot()) { 
+	//    tR = "[[" + tFile.parent.name + "]] | " + tR; 
+	 //   tFile = tFile.parent; 
+	// } 
+
 	while (!tFile.parent?.isRoot()) { 
-	   tR = "[[" + tFile.parent.name + "]] | " + tR; 
+	   tR = tFile.parent.name + " | " + tR; 
 	   tFile = tFile.parent; 
 	} 
 
