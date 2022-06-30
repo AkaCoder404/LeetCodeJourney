@@ -1,6 +1,8 @@
 # take current file structure of obsidian workbook and create SUMMARY.md
 # SUMMARY.md dictates the structure of gitbook
 
+# https://github.com/GitbookIO/gitbook/blob/master/docs/pages.md
+
 import os
 def format_string(name, path):
     # create proper file linking 
@@ -30,16 +32,15 @@ for folder in dir:
             # check how many / there is, which means how many tabs for each article
             backslash_count = path.count("/")
             tabs = "\t" * backslash_count
-            print(files)
 
-            # each section 
+            # section
             f.write(tabs + "* " + format_string(path.split("/")[-1], path + "/" + "README.md") + "\n")
+
+            # each article
             for file in files:
-                if file.count("README.md"): # section
+                if file.count("README.md"): # section 
                    continue
                 else: # article
                     f.write(tabs + "\t" + "* " + format_string(file, path + "/" + file) + "\n")
-            
-            
-            
+                   
 f.close()
