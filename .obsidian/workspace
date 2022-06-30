@@ -7,12 +7,8 @@
         "id": "02ae415783dab31a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Problems/Math/2.两数相加.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Math/2.两数相加.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +92,15 @@
   },
   "active": "02ae415783dab31a",
   "lastOpenFiles": [
+    "temp.md",
+    "SUMMARY.md",
+    "test2.md",
+    "Algorithms/Pattern-Matching/KMP.md",
+    "Algorithms/Pattern-Matching/BM-GS.md",
     "Problems/Math/2.两数相加.md",
     "Problems/Hash-table/290.单词规律.md",
-    "Templates/New Problem Template.md",
+    "Problems/Hash-table/README.md",
     "Templates/getParentInfo.md",
-    "Templates/getAncestorInfo.md",
-    "Problems/Hash-table/1.两数之和.md",
-    "SUMMARY.md",
-    "Problems.md",
-    "Problems/Hash-table/1.两数相加.md",
-    "Problems/Math/README.md"
+    "Data-Structures/README.md"
   ]
 }
