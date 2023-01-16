@@ -1,0 +1,35 @@
+{
+  "plugins": [
+    "tags",
+    "copy-code-button",
+    "-sharing",
+    "sharing-plus",
+    "back-to-top-button",
+    "tbfed-pagefooter",
+    "collapsible-menu"
+  ],
+  "pluginsConfig": {
+    "tags": {
+        "placement": "top"
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": true,
+      "pocket": false,
+      "qq": false,
+      "qzone": true,
+      "twitter": false,
+      "weibo": true,
+      "all": [
+        "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+        "messenger","qq", "qzone","viber","whatsapp"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright":"Copyright &copy mine 2000-2020",
+      "modify_label": "Document revision time:",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
+}
