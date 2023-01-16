@@ -8,6 +8,7 @@
 * [Problems](Problems/README.md)
 	* [Easy](Problems/Easy/README.md)
 		* [1-TwoSum](Problems/Easy/1-TwoSum.md)
+		* [66-PlusOne](Problems/Easy/66-PlusOne.md)
 	* [Hard](Problems/Hard/README.md)
 		* [2-TwoSum](Problems/Hard/2-TwoSum.md)
 	* [Medium](Problems/Medium/README.md)
