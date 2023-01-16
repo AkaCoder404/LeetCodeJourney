@@ -7,41 +7,12 @@ tags: #Easy, #hash-table, #math
 
 ## Question
 
-{% simplemindmap %}
-```markdown
-* simplemindmap
-    * config book.json
-        * plugins
-            * others
-            * simple-mind-map
-        * pluginsConfig
-            * others
-            * simple-mind-map
-                * type
-                * preset
-                * linkShape
-                * autoFit
-                * style
-    * custom file.md
-        * markdown
-            * type
-            * preset
-            * linkShape
-            * autoFit
-            * style
-        * txtmap
-        * json
-        * mindmup
-```
-{% endsimplemindmap %}
-
 ### Example
 ```python
 a = 5
 ```
 
 ## Thought Process
-
 
 
 ## Solution
@@ -59,8 +30,6 @@ a = 10
 a = 12
 
 ```
-
-
 ### Results
 
 ### Edge Cases
