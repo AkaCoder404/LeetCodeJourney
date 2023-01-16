@@ -9,7 +9,8 @@ tags: #Hard, #math
 ## Question
 
 ### Example
-```
+```cpp
+// test-code-example
 ```
 
 ## Thought Process

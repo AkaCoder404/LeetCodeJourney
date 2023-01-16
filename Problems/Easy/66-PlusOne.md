@@ -13,6 +13,7 @@ Add one to an integer number stored in array format.
 
 ### Example
 ```cpp
+// test-code-example
 ```
 
 ## Thought Process
