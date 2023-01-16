@@ -3,7 +3,7 @@ Date: 2022-06-29
 Author: AkaCoder404
 File Hiearchy: Problems | Hash-table 
 ---
-tags: #hash-table
+tags: #Easy, #hash-table, #math 
 
 ## Question
 

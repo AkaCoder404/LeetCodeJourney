@@ -6,7 +6,9 @@
     "sharing-plus",
     "back-to-top-button",
     "tbfed-pagefooter",
-    "collapsible-menu"
+    "collapsible-menu",
+    "simple-mind-map",
+    "insert-title"
   ],
   "pluginsConfig": {
     "tags": {

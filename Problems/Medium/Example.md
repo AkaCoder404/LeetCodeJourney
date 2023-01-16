@@ -1,14 +1,16 @@
 ---
-Date: 2022-06-29
+Date: 2023-01-16
 Author: AkaCoder404
-File Hiearchy: Problems | Hash-table 
+File Hiearchy: Problems | Medium 
 ---
-tags: #hash-table
+# Example
+
+tags : #Medium
 
 ## Question
 
 ### Example
-```
+```cpp
 ```
 
 ## Thought Process

@@ -4,7 +4,7 @@ Author: AkaCoder404
 File Hiearchy: Problems | Math 
 ---
 
-**Tags**: #Math
+tags: #Hard, #math 
 
 ## Question
 
