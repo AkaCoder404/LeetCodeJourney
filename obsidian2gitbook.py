@@ -15,7 +15,7 @@ f.truncate(0)
 dir = os.listdir()
 print(dir)
 
-exclude = [".obsidian", ".git", "Scripts", "Templates", "node_modules", ".github", "_book"]
+exclude = [".obsidian", ".git", "Scripts", "Templates", "node_modules", ".github", "_book", ".publish"]
 
 
 for folder in dir: 
